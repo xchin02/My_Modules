@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="c328">C328 Intelligent Networks</string>
+    <string name="modules_available">Modules Available</string>
+    <string name="c346">C346 Android Programming</string>
+    <string name="c203">C203 Web Development</string>
+    <string name="c228">C228 Operating Systems Security</string>
+    <string name="c331">C331 Digital Security and Forensics</string>
+    <string name="return_page">Return to Previous Page</string>
+</resources>
